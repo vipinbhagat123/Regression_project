@@ -1,0 +1,56 @@
+body {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    background-image: url('data:image/jpeg;base64,YOUR_BASE64_STRING_HERE');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.stButton>button {
+    background-color: #444;
+    color: #fff;
+    border-radius: 5px;
+    border: 2px solid #888;
+}
+
+.stTextInput>div>div>input {
+    background-color: #444;
+    color: #000000;
+    border: 2px solid #888;
+    border-radius: 5px;
+}
+
+.stFileUploader>div>div>div {
+    background-color: #444;
+    color: #fff;
+    border: 2px solid #888;
+    border-radius: 5px;
+}
+
+.stNumberInput>div>div>input {
+    background-color: #444;
+    color: #fff;
+    border: 2px solid #888;
+    border-radius: 5px;
+}
+
+h1, h2, h3, h4 {
+    color: #000000;
+    border-bottom: 2px solid #888;
+    padding-bottom: 5px;
+}
+
+.stAlert {
+    background-color: #444;
+    color: #fff;
+    border: 2px solid #888;
+    border-radius: 5px;
+}
+
+.stDataFrame {
+    background-color: #444;
+    color: #000000;
+    border: 2px solid #888;
+    border-radius: 5px;
+}
+
